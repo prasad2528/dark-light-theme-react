@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.error-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.not-found {
+  height: 500px;
+  width: 500px;
+}
+.dark {
+  color: #000000;
+}
+.white {
+  color: #ffffff;
+}
